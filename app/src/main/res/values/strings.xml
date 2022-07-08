@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tugas 7</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="daftar_barang">Daftar Barang</string>
+    <string name="tambah_barang">Tambah Barang</string>
+    <string name="edit_barang">Edit Barang</string>
+    <string name="hapus_barang">Hapus Barang</string>
+    <string name="title_nama_barang">Nama Barang</string>
+    <string name="title_jenis_barang">Jenis Barang</string>
+    <string name="title_stok_barang">Stok</string>
+</resources>
